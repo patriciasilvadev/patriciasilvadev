@@ -2,9 +2,8 @@
 
 Com o Google como professor e um editor de código, estou sempre procurando coisas novas para **aprender.** :computer: :earth_americas:
 
-<div align="center">
-  <a href="https://github.com/patriciasilvadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciasilvadev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div >
+  <a href="https://github.com/patriciasilvadev">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciasilvadev&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
