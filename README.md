@@ -4,7 +4,7 @@ Com o Google como professor e um editor de código, estou sempre procurando cois
 
 <div >
   <a href="https://github.com/patriciasilvadev">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciasilvadev&layout=compact&langs_count=7&theme=radical"/>
+  
 </div>
 
 
