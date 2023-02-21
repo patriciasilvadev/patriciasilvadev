@@ -12,10 +12,10 @@
 ### Onde me encontrar:
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/patriciasilvadev" target="_blank">
+<a href="https://codepen.io/patricia-silva-dev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-patriciasilvadev-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://linkedin.com/in/patriciasilvadev" target="_blank">
+<a href="https://linkedin.com/in/patricia-silva-dev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-patriciasilvadev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/patms_" target="_blank">
