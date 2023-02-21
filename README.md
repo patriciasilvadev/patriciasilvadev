@@ -1,16 +1,24 @@
 ## Olá, eu sou Patrícia Silva.
 
-Com o Google como professor e um editor de código, estou sempre procurando coisas novas para **aprender.** :computer: :earth_americas:
 
-<div >
-  <a href="https://github.com/patriciasilvadev">  
-  
-</div>
+- 🔥 Técnica em TI, Web Designer e Desenhista
+- 🔭 Atualmente estou trabalhando na [Datamac](https://www.datamac.com.br/index.html)
+- 🌱 Atualmente estou aprendendo a desenvolver projetos em **JavaScript, HTML, CSS**
+- 📫 Como chegar até mim: patriciasilva.dev@gmail.com
+- ⚡ Curiosidade: Sou apaixonada por personagens de histórias em quadrinhos e ouvir um bom e velho Rock N' Roll!
+- 👨‍💻 Mais em [patriciasilvadev](https://)
 
 
 ### Onde me encontrar:
 
-<div> 
-  <a href = "mailto:patriciasilva.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/patrícia-silva-127a30223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/patriciasilvadev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-patriciasilvadev-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://linkedin.com/in/patriciasilvadev" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-patriciasilvadev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/patms_" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-patms_-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
