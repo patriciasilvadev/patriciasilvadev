@@ -1,11 +1,11 @@
 ## Olá, eu sou Patrícia Silva.
 
 
-- 🔥 Técnica em TI, Desenvolvedora Front-end e Desenhista
+- 🔥 Técnica em TI e Desenvolvedora Front-end
 - 🔭 Atualmente estou trabalhando na [Datamac](https://www.datamac.com.br/index.html)
 - 🌱 Atualmente estou aprendendo a desenvolver projetos em **JavaScript, HTML, CSS**
 - 📫 Como chegar até mim: patriciasilva.dev@gmail.com
-- ⚡ Curiosidade: Sou apaixonada por personagens de histórias em quadrinhos e ouvir um bom e velho Rock N' Roll!
+- ⚡ Curiosidade: Nas horas vagas, adoro desenhar e explorar minha criatividade!
 - 👨‍💻 Mais em [patriciasilvadev](https://)
 
 
