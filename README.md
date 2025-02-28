@@ -3,7 +3,7 @@
 
 - 🔥 Técnica em TI e Desenvolvedora Front-end
 - 🔭 Atualmente estou trabalhando na [Datamac](https://www.datamac.com.br/index.html)
-- 🌱 Atualmente estou aprendendo a desenvolver projetos em **JavaScript, HTML, CSS**
+- 🌱 Atualmente estou aprendendo a desenvolver projetos em **Python** e com **JavaScript, HTML, CSS**
 - 📫 Como chegar até mim: patriciasilva.dev@gmail.com
 - ⚡ Curiosidade: Nas horas vagas, adoro desenhar e explorar minha criatividade!
 - 👨‍💻 Mais em [patriciasilvadev](https://)
