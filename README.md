@@ -3,7 +3,7 @@
 
 - 🔥 Técnica em Desenvolvimento de Sistemas, com foco em Front-end
 - 🔭 Atualmente estou trabalhando na [Datamac](https://www.datamac.com.br/index.html), cuidando do site da empresa e da criação de artes para redes sociais
-- 🌱 Estou em constante aprendizado, desenvolvendo projetos com *HTML, CSS e JavaScript*, além de explorar *Python* e *Inteligência Artificial*
+- 🌱 Estou em constante aprendizado, desenvolvendo projetos com *HTML, CSS e JavaScript*, além de explorar *Inteligência Artificial*
 - ⚡ Curiosidade: Nas horas vagas, adoro desenhar e explorar minha criatividade!
 - 📫 Como chegar até mim: patriciasilva.dev@gmail.com
 - 👨‍💻 Mais em [patriciasilvadev](https://)
