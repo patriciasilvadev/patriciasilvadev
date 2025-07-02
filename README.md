@@ -6,7 +6,7 @@
 - 🌱 Estou em constante aprendizado, desenvolvendo projetos com *HTML, CSS e JavaScript*, além de explorar *Inteligência Artificial*
 - ⚡ Curiosidade: Nas horas vagas, adoro desenhar e explorar minha criatividade!
 - 📫 Como chegar até mim: patriciasilva.dev@gmail.com
-- 🌐 Portfólio/site: [patriciasilvadev](https://)
+- 🌐 Portfólio/site: [patriciasilvadev](https://patriciasilvadev.github.io/)
 
 
 ### Onde me encontrar:
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/patricia-silva-dev" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-patriciasilvadev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/patriciasilva.dev" target="_blank">
+<a href="https://instagram.com/patriciasilvadev.io" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-patriciasilva.dev-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
